@@ -38,7 +38,7 @@ All networks are interconnected using a central router.
 
 ### Network Topology
 ![Topology](Screenshots/LEFT-SIDE-STATIC-RIGHT-SIDE-RIPV2.png)
-![Topology](Screenshots/OSPF-MIDDLE.png)
+![Topology](Screenshots/OSPF-TO-MIDDLE.png)
 
 ### Routing Table
 ![Routing](Screenshots/STATIC-ROUTER0-ROUTING-TABLE.PNG)
