@@ -38,13 +38,13 @@ All networks are interconnected using a central router.
 
 ### Network Topology
 ![Topology](Screenshots/LEFT-SIDE-STATIC-RIGHT-SIDE-RIPV2.png)
-![Topology](Screenshots/OSPF-TO-MIDDLE.png)
+![Topology](Screenshots/OSPF-TO-MIDDLE.png) 
 
 ### Routing Table
-![Routing](Screenshots/STATIC-ROUTER0-ROUTING-TABLE.PNG)
-![Routing](Screenshots/RIPV2-ROUTER6-ROUTING-TABLE.PNG)
-![Routing](Screenshots/OSPF-ROUTER7-ROUTING-TABLE.PNG)
-![Routing](Screenshots/MIDDLE-ROUTER-ROUTING-TABLE.PNG)
+![Routing](Screenshots/STATIC-ROUTER0-ROUTING-TABLE.png)
+![Routing](Screenshots/RIPV2-ROUTER6-ROUTING-TABLE.png)
+![Routing](Screenshots/OSPF-ROUTER7-ROUTING-TABLE.png)
+![Routing](Screenshots/MIDDLE-ROUTER-ROUTING-TABLE.png)
 
 ### Ping Test
 ![Ping](Screenshots/PING-TEST-FROM-MIDDLE-ROUTER.png)
